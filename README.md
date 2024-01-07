@@ -1,3 +1,3 @@
 # FPSVISION
 
-Cheat Multiplataforma e Totalmente Indetectável utilizando Inteligência Artificial.
+Assistência de mira Multiplataforma e Totalmente Indetectável utilizando Inteligência Artificial.
